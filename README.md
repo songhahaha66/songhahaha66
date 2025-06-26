@@ -1,4 +1,3 @@
-[![Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=songhahaha66)](https://github.com/songhahaha66/)
 
 <!--START_SECTION:waka-->
 
