@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
-Total Time: 31 hrs 33 mins
+Total Time: 24 hrs 24 mins
 
-Python           11 hrs 51 mins  █████████▒░░░░░░░░░░░░░░░   37.58 %
-Other            3 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-TypeScript       3 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-YAML             2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-JavaScript       2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Python       6 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+Other        3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+TypeScript   3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+JavaScript   2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+C++          2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
 ```
 
 <!--END_SECTION:waka-->
