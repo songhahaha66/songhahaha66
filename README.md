@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 22 hrs 48 mins
+Total Time: 20 hrs 48 mins
 
-C++          4 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Other        3 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-TypeScript   3 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-Python       3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-JavaScript   2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+C++          4 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+TypeScript   3 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Python       3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+JavaScript   2 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Other        2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
 ```
 
 <!--END_SECTION:waka-->
