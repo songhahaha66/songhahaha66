@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2025 - To: 27 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-Total Time: 14 hrs 38 mins
+Total Time: 14 hrs 43 mins
 
-C++           3 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Rust          3 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
-Python        2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-Docker        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Other         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+C++           4 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
+Rust          3 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+Python        2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Bash          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Docker        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
