@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 18 hrs 38 mins
+Total Time: 16 hrs 7 mins
 
-Python         5 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-Vue.js         4 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-YAML           2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-JSON           1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-SQL            1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Python         5 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.57 %
+Vue.js         4 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
+YAML           2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Bash           43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Docker         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
