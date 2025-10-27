@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Total Time: 21 hrs 13 mins
+Total Time: 18 hrs 38 mins
 
-Python        7 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.68 %
-Astro         2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Markdown      1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-YAML          1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Rust          1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Python       7 hrs 54 mins   ██████████▓░░░░░░░░░░░░░░   42.48 %
+Astro        2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Rust         1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+JavaScript   1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
