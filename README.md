@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2025 - To: 15 November 2025
+From: 09 November 2025 - To: 16 November 2025
 
-Total Time: 3 hrs 29 mins
+Total Time: 3 hrs 17 mins
 
-Python     53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
-Rust       46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
-Markdown   37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Astro      34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-YAML       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Python     53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Rust       46 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+Markdown   37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+Astro      34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+YAML       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
 ```
 
 <!--END_SECTION:waka-->
