@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Total Time: 37 hrs 9 mins
+Total Time: 35 hrs 29 mins
 
-Rust         15 hrs 36 mins  ██████████▒░░░░░░░░░░░░░░   41.99 %
-Python       5 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-Other        5 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Bash         4 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-TOML         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Rust         12 hrs 49 mins  █████████░░░░░░░░░░░░░░░░   36.16 %
+Other        7 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+Python       5 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Bash         4 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+TOML         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
