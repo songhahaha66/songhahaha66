@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-Total Time: 20 hrs 24 mins
+Total Time: 18 hrs 8 mins
 
-C++          6 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.10 %
-Go           3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Python       2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-YAML         1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Vue.js       1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+C++          7 hrs 27 mins   ██████████▒░░░░░░░░░░░░░░   41.09 %
+Python       3 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Go           3 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+Vue.js       57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+YAML         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
