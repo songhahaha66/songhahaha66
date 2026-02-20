@@ -4,15 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2026 - To: 18 February 2026
+From: 12 February 2026 - To: 19 February 2026
 
-Total Time: 40 mins
+Total Time: 23 mins
 
-Bash         16 mins               ██████████░░░░░░░░░░░░░░░   40.11 %
-Other        12 mins               ███████▓░░░░░░░░░░░░░░░░░   30.69 %
-Rust         9 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-TOML         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-SSH Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Other        12 mins               █████████████▒░░░░░░░░░░░   53.00 %
+Bash         10 mins               ███████████▒░░░░░░░░░░░░░   45.12 %
+SSH Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
