@@ -4,12 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2026 - To: 21 February 2026
+From: 15 February 2026 - To: 22 February 2026
 
-Total Time: 22 mins
+Total Time: 5 hrs 57 mins
 
-Other   12 mins               █████████████▓░░░░░░░░░░░   54.02 %
-Bash    10 mins               ███████████▒░░░░░░░░░░░░░   45.98 %
+Rust     4 hrs 6 mins          █████████████████▒░░░░░░░   68.99 %
+Other    1 hr 32 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
+Bash     9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Python   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+YAML     3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
